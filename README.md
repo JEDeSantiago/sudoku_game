@@ -1,4 +1,4 @@
-# 🧩 Sudoku Matrix Generator
+# 🧩 Sudoku Game
 
 This project provides a simple Python script that generates a square matrix of size `n x n` with random unique numbers, simulating a basic Sudoku-like setup.
 
