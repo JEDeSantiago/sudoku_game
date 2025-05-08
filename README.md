@@ -10,8 +10,8 @@ This project provides a simple Python script that generates a square matrix of s
 ├── sudoku.py # Main executable script
 ├── utils/
 │ └── utilities.py # Contains the sudokuGame class
-|── test/
-└── test_sudoku.py # Pytest file for unit testin
+├── test/
+│ └── test_sudoku.py # Pytest file for unit testing
 
 
 ---
